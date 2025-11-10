@@ -1,9 +1,166 @@
-# 💫 About Me:
-Hi, I’m Dibbo Das, a CSE student and skilled full-stack web developer. I specialize in HTML, CSS,<br>React, and MERN stack, creating responsive, interactive, and scalable web applications. With<br>expertise in GSAP, ScrollTrigger, Locomotive, and Lenis, I craft smooth animations and<br>exceptional user experiences.<br>I also have hands-on experience in machine learning, AI, and microcontrollers, with projects like<br>Home Automation. My beginner knowledge of ThreeJS and WebGL adds a creative edge to my<br>work. I’m driven to deliver impactful solutions and contribute to your company’s growth through<br>innovative and efficient development.
+<!-- Header Section -->
+<div align="center" id="header">
 
+  <h1>
+    Hi 👋 I'm <span style="color:#2FA7FF;font-weight:900">Iftikhirul Hoque Ifti</span>
+  </h1>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/st5t9fDM) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/dibbo.das.779/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dibbo_das/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dibbo-das-7147622a1/) 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kdam+Thmor+Pro&size=22&pause=1000&color=11BCF7&center=true&vCenter=true&width=500&lines=Competitive+Programmer;Web+Designer;Open+Source+Enthusiast;Django+Developer)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+</div>
+
+---
+
+### 🧑‍💻 About Me
+🎓 I'm a *4th-year Computer Science student* at *Port City International University*.  
+💻 Passionate about *full-stack web development* and *problem solving*.  
+🌱 Currently exploring *Docker, **React, and **DevOps* tools.  
+🚀 Love building practical projects & contributing to open-source.
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <i>Languages • Frameworks • Tools • Libraries I work with</i>
+</p>
+
+<div align="center">
+
+<table>
+  <tr>
+    <!-- Card 1 -->
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/><br>
+      <b>Python</b>
+    </td>
+    <!-- Card 2 -->
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/><br>
+      <b>C++</b>
+    </td>
+    <!-- Card 3 -->
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/><br>
+      <b>JavaScript</b>
+    </td>
+    <!-- Card 4 -->
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/><br>
+      <b>Java</b>
+    </td>
+    <!-- Card 5 -->
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" alt="Django"/><br>
+      <b>Django</b>
+    </td>
+  </tr>
+  
+  <tr>
+    <!-- Card 6 -->
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML"/><br>
+      <b>HTML5</b>
+    </td>
+    <!-- Card 7 -->
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS"/><br>
+      <b>CSS3</b>
+    </td>
+    <!-- Card 8 -->
+    <td align="center" width="140">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" alt="Tailwind"/><br>
+      <b>Tailwind CSS</b>
+    </td>
+    <!-- Card 9 -->
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap"/><br>
+      <b>Bootstrap</b>
+    </td>
+    <!-- Card 10 -->
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" alt="Flutter"/><br>
+      <b>Flutter</b>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- Card 11 -->
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/><br>
+      <b>MySQL</b>
+    </td>
+    <!-- Card 12 -->
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/><br>
+      <b>PostgreSQL</b>
+    </td>
+    <!-- Card 13 -->
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/><br>
+      <b>Git</b>
+    </td>
+    <!-- Card 14 -->
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/><br>
+      <b>Docker</b>
+    </td>
+    <!-- Card 15 -->
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/><br>
+      <b>React</b>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<!-- GitHub Overview & Languages -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iftikhoq/profile-repo/master/generated/overview.svg#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/iftikhoq/profile-repo/master/generated/overview.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iftikhoq/profile-repo/master/generated/languages.svg#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/iftikhoq/profile-repo/master/generated/languages.svg">
+</picture>
+
+<!-- GitHub Stats Card -->
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=iftikhoq&show_icons=true&number_format=long&hide_title=true&text_bold=false&show=reviews,prs_merged,prs_merged_percentage,discussions_answered&border_color=ddd&border_radius=7&hide=stars,commits">
+  <img src="https://github-readme-stats.vercel.app/api?username=iftikhoq&show_icons=true&number_format=long&hide_title=true&text_bold=false&hide=stars,commits&show=reviews,discussions_answered,prs_merged,prs_merged_percentage&border_color=666&border_radius=7&bg_color=0d1117&icon_color=58a6ff&ring_color=58a6fc&text_color=ccc">
+</picture>
+
+<!-- Streak Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=iftikhoq&border_radius=7&card_width=235&card_height=214&background=0D1117&sideNums=4c8edf&sideLabels=ddd&border=777&dates=999&hide_total_contributions=true&hide_current_streak=true">
+  <img src="https://streak-stats.demolab.com/?user=iftikhoq&border_radius=7&card_width=235&card_height=190&sideNums=3483ed&sideLabels=555&border=e1e4e8&dates=777&hide_total_contributions=true&hide_current_streak=true">
+</picture>
+
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ifti.k.hoq)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ifti.k.hoq)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iftikhoq)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/iftikhoq)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+![GitHub Snake Dark](https://raw.githubusercontent.com/iftikhoq/iftikhoq/main/dist/snake-dark.svg)
