@@ -145,8 +145,4 @@
 
 </div>
 
----
 
-## 🐍 Contribution Snake
-
-![GitHub Snake Dark](https://raw.githubusercontent.com/Dibbodas1/Dibbodas1/main/dist/snake-dark.svg)
