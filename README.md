@@ -144,5 +144,36 @@
 ---
 
 ## 🐍 Contribution Snake
+name: Generate Snake
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/Dibbodas1/Dibbodas1/main/dist/snake-dark.svg)
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # runs twice a day
+  workflow_dispatch:
+  push:
+    branches: [ "main" ]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Dibbodas1
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Commit SVGs back to main
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: generate/update snake SVGs"
+          file_pattern: dist/*.svg
+
