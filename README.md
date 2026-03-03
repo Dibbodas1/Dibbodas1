@@ -1,105 +1,148 @@
-<!-- =======================
-   GitHub Profile README
-   Dibbo Das
-======================= -->
+<!-- Header Section -->
+<div align="center" id="header">
 
-<div align="center">
+  <h1>
+    Hi 👋 I'm <span style="color:#2FA7FF;font-weight:900">Dibbo Das</span>
+  </h1>
 
-  <h1>Hi 👋 I'm <span style="color:#2FA7FF;font-weight:900">Dibbo Das</span></h1>
-
-  <p>
-    Full Stack MERN Developer • Secure Backend Systems • Cloud-Oriented
-  </p>
-
-  <p>
-    <a href="https://dibbodas.vercel.app" target="_blank"><b>Portfolio</b></a> •
-    <a href="https://www.linkedin.com/in/dibbo-das-7147622a1" target="_blank"><b>LinkedIn</b></a> •
-    <a href="https://github.com/Dibbodas1" target="_blank"><b>GitHub</b></a>
-  </p>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Kdam+Thmor+Pro&size=22&pause=1000&color=11BCF7&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Full+Stack+MERN+Developer;Secure+API+%7C+JWT+%7C+RBAC;Cloud+%26+DevOps+in+Progress;Learning+in+Public+%F0%9F%9A%80" />
-</div>
-
----
-
-## 👋 About Me
-
-I am a Computer Science student and Full Stack MERN Developer focused on building **secure, scalable, and production-ready** web applications.
-
-My core strength is in **backend architecture**, **authentication systems**, and **clean middleware-driven API design**. I enjoy turning ideas into reliable systems — not just apps.
-
-**Recent work:** Built a production-ready **JWT Authentication & Authorization API** with:
-- Access & Refresh Tokens
-- Token Rotation
-- Role-Based Access Control (RBAC)
-- Zod Validation
-- Centralized Error Handling
-- Modular, scalable structure
-
-🌐 Portfolio: https://dibbodas.vercel.app
-
----
-
-## 🛠 Tech Stack
-
-**Languages:** C++ • Python • JavaScript • TypeScript • Java  
-**Frontend:** React.js • HTML5 • CSS3  
-**Backend:** Node.js • Express.js • REST APIs • JWT • RBAC  
-**Database:** MongoDB • NoSQL Concepts  
-**Tools/DevOps:** Git • Docker • N8N • Linux (Basic)
-
----
-
-## 🧠 Engineering Focus
-
-- Secure Authentication & Authorization (JWT, RBAC)
-- Scalable API Architecture & Clean Code
-- Middleware-driven Express Design
-- Error Handling, Validation, and Config Management
-- Cloud-ready development mindset
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Dibbodas1&show_icons=true&hide_title=true&hide=stars,commits&rank_icon=github&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-
-  <br/>
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dibbodas1&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-
-  <br/>
-
-  <img
-    src="https://streak-stats.demolab.com?user=Dibbodas1&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kdam+Thmor+Pro&size=22&pause=1000&color=11BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Full+Stack+Developer;Automation+and+AI+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🌍 Career Direction
-
-My goal is to grow into a **Cloud-oriented Full Stack Engineer**, focusing on **secure backend systems**, **scalable architecture**, and **DevOps-driven development**.
+### 🧑‍💻 About Me
+🎓 I'm a *Computer Science student* at *International Islamic University Chittagong*.  
+💻 I’m a *Full Stack Web Developer* with hands-on experience in real-world projects.  
+🌱 Currently exploring *AI, ML, Automation, and N8N workflows*.  
+🚀 Love solving problems, building powerful apps, and learning new technologies every day.  
+🌐 Visit my portfolio: [dibbodas.vercel.app](https://dibbodas.vercel.app/)
 
 ---
 
-## 🤝 Connect With Me
+## 🧰 Tech Stack
+
+<p align="center">
+  <i>Languages • Frameworks • Tools • Libraries I work with</i>
+</p>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dibbo-das-7147622a1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://dibbodas.vercel.app/)
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/><br>
+      <b>C++</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/><br>
+      <b>Python</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/><br>
+      <b>JavaScript</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/><br>
+      <b>Java</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/><br>
+      <b>TypeScript</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML"/><br>
+      <b>HTML5</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS"/><br>
+      <b>CSS3</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/><br>
+      <b>React</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express"/><br>
+      <b>Express.js</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/><br>
+      <b>MongoDB</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/><br>
+      <b>Git</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/><br>
+      <b>Docker</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/><br>
+      <b>Node.js</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://www.svgrepo.com/show/354303/n8n.svg" width="50" height="50" alt="N8N"/><br>
+      <b>N8N</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn-icons-png.flaticon.com/512/3940/3940056.png" width="50" height="50" alt="AI/ML"/><br>
+      <b>AI & ML</b>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<!-- GitHub Stats Card -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://github-readme-stats.vercel.app/api?username=Dibbodas1&show_icons=true&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dibbodas1&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats">
+</picture>
+
+<br><br>
+
+<!-- Top Languages -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dibbodas1&layout=compact&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dibbodas1&layout=compact&theme=default&hide_border=true" alt="Top Languages">
+</picture>
+
+<br><br>
+
+<!-- Streak Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://streak-stats.demolab.com?user=Dibbodas1&theme=tokyonight&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=Dibbodas1&theme=default&hide_border=true" alt="GitHub Streak">
+</picture>
+
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/dibbo.das.779)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dibbo_das/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dibbo-das-7147622a1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://dibbodas.vercel.app/)
 
 </div>
