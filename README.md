@@ -1,97 +1,87 @@
-# 🚀 Dibbo Das
+<!-- =======================
+   GitHub Profile README
+   Dibbo Das
+======================= -->
 
-### Full Stack MERN Developer | Backend & Cloud-Oriented Engineer
+<div align="center">
+
+  <h1>Hi 👋 I'm <span style="color:#2FA7FF;font-weight:900">Dibbo Das</span></h1>
+
+  <p>
+    Full Stack MERN Developer • Secure Backend Systems • Cloud-Oriented
+  </p>
+
+  <p>
+    <a href="https://dibbodas.vercel.app" target="_blank"><b>Portfolio</b></a> •
+    <a href="https://www.linkedin.com/in/dibbo-das-7147622a1" target="_blank"><b>LinkedIn</b></a> •
+    <a href="https://github.com/Dibbodas1" target="_blank"><b>GitHub</b></a>
+  </p>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Kdam+Thmor+Pro&size=22&pause=1000&color=11BCF7&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Full+Stack+MERN+Developer;Secure+API+%7C+JWT+%7C+RBAC;Cloud+%26+DevOps+in+Progress;Learning+in+Public+%F0%9F%9A%80" />
+</div>
 
 ---
 
 ## 👋 About Me
 
-I am a Computer Science student and Full Stack MERN Developer focused on building secure, scalable, and production-ready web applications.
+I am a Computer Science student and Full Stack MERN Developer focused on building **secure, scalable, and production-ready** web applications.
 
-My primary strength lies in backend architecture, authentication systems, API design, and clean project structure. I enjoy designing systems that are not just functional, but reliable and maintainable.
+My core strength is in **backend architecture**, **authentication systems**, and **clean middleware-driven API design**. I enjoy turning ideas into reliable systems — not just apps.
 
-Recently, I built a production-ready JWT-based Authentication & Authorization system implementing:
+**Recent work:** Built a production-ready **JWT Authentication & Authorization API** with:
+- Access & Refresh Tokens
+- Token Rotation
+- Role-Based Access Control (RBAC)
+- Zod Validation
+- Centralized Error Handling
+- Modular, scalable structure
 
-* Access & Refresh Token strategy
-* Token Rotation
-* Role-Based Access Control (RBAC)
-* Schema Validation (Zod)
-* Centralized Error Handling
-* Modular & Scalable Architecture
-
-I am currently expanding my knowledge in Cloud infrastructure, DevOps practices, and system design to grow as a Cloud-oriented Full Stack Engineer.
-
-🌐 Portfolio: [https://dibbodas.vercel.app](https://dibbodas.vercel.app)
+🌐 Portfolio: https://dibbodas.vercel.app
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-
-C++ • Python • JavaScript • TypeScript • Java
-
-### Frontend
-
-React.js • HTML5 • CSS3
-
-### Backend
-
-Node.js • Express.js • REST API Design • JWT Authentication • RBAC
-
-### Database
-
-MongoDB • NoSQL Concepts
-
-### Tools & DevOps
-
-Git • Docker • N8N • Linux (Basic)
+**Languages:** C++ • Python • JavaScript • TypeScript • Java  
+**Frontend:** React.js • HTML5 • CSS3  
+**Backend:** Node.js • Express.js • REST APIs • JWT • RBAC  
+**Database:** MongoDB • NoSQL Concepts  
+**Tools/DevOps:** Git • Docker • N8N • Linux (Basic)
 
 ---
 
 ## 🧠 Engineering Focus
 
-* Secure API Architecture
-* Authentication & Authorization Systems
-* Scalable Folder Structure
-* Middleware-driven Design
-* Backend Performance Optimization
-* Cloud-Ready Application Development
+- Secure Authentication & Authorization (JWT, RBAC)
+- Scalable API Architecture & Clean Code
+- Middleware-driven Express Design
+- Error Handling, Validation, and Config Management
+- Cloud-ready development mindset
 
 ---
 
 ## 📊 GitHub Stats
 
-<!-- Keep your existing stats section here -->
+<div align="center">
 
-(Y<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Dibbodas1&show_icons=true&hide_title=true&hide=stars,commits&rank_icon=github&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
 
-<!-- GitHub Overview & Languages -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dibbodas1/Dibbodas1/master/generated/overview.svg#gh-dark-mode-only">
-  <img src="https://raw.githubusercontent.com/Dibbodas1/Dibbodas1/master/generated/overview.svg">
-</picture>
+  <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dibbodas1/Dibbodas1/master/generated/languages.svg#gh-dark-mode-only">
-  <img src="https://raw.githubusercontent.com/Dibbodas1/Dibbodas1/master/generated/languages.svg">
-</picture>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dibbodas1&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 
-<br><br>
+  <br/>
 
-<!-- GitHub Stats Card -->
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Dibbodas1&show_icons=true&number_format=long&hide_title=true&text_bold=false&show=reviews,prs_merged,prs_merged_percentage,discussions_answered&border_color=ddd&border_radius=7&hide=stars,commits">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dibbodas1&show_icons=true&number_format=long&hide_title=true&text_bold=false&hide=stars,commits&show=reviews,discussions_answered,prs_merged,prs_merged_percentage&border_color=666&border_radius=7&bg_color=0d1117&icon_color=58a6ff&ring_color=58a6fc&text_color=ccc">
-</picture>
-
-<br>
-
-<!-- Streak Stats -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Dibbodas1&border_radius=7&background=0D1117&sideNums=4c8edf&sideLabels=ddd&border=777&dates=999&hide_total_contributions=true&hide_current_streak=true">
-  <img src="https://streak-stats.demolab.com/?user=Dibbodas1&border_radius=7&sideNums=3483ed&sideLabels=555&border=e1e4e8&dates=777&hide_total_contributions=true&hide_current_streak=true">
-</picture>
+  <img
+    src="https://streak-stats.demolab.com?user=Dibbodas1&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 
 </div>
 
@@ -99,15 +89,17 @@ Git • Docker • N8N • Linux (Basic)
 
 ## 🌍 Career Direction
 
-My goal is to become a Cloud-oriented Full Stack Engineer specializing in secure backend systems, distributed architecture, and DevOps-driven development.
-
-I believe in building systems — not just applications.
+My goal is to grow into a **Cloud-oriented Full Stack Engineer**, focusing on **secure backend systems**, **scalable architecture**, and **DevOps-driven development**.
 
 ---
 
 ## 🤝 Connect With Me
 
-LinkedIn: [https://www.linkedin.com/in/dibbo-das-7147622a1](https://www.linkedin.com/in/dibbo-das-7147622a1)
-Portfolio: [https://dibbodas.vercel.app](https://dibbodas.vercel.app)
-GitHub: [https://github.com/Dibbodas1](https://github.com/Dibbodas1)
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dibbo-das-7147622a1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://dibbodas.vercel.app/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/dibbo.das.779)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dibbo_das/)
+
+</div>
