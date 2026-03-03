@@ -107,24 +107,6 @@
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://github-readme-stats.vercel.app/api?username=Dibbodas1&show_icons=true&theme=tokyonight&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dibbodas1&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats">
-</picture>
-
-<br><br>
-
-<!-- Top Languages -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dibbodas1&layout=compact&theme=tokyonight&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dibbodas1&layout=compact&theme=default&hide_border=true" alt="Top Languages">
-</picture>
-
-<br><br>
-
 <!-- Streak Stats -->
 <picture>
   <source media="(prefers-color-scheme: dark)" 
