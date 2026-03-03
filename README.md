@@ -102,22 +102,6 @@
 </div>
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Streak Stats -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://streak-stats.demolab.com?user=Dibbodas1&theme=tokyonight&hide_border=true">
-  <img src="https://streak-stats.demolab.com?user=Dibbodas1&theme=default&hide_border=true" alt="GitHub Streak">
-</picture>
-
-</div>
-
----
-
 ### 🌐 Connect With Me
 
 <div align="center">
