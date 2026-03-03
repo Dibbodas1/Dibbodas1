@@ -88,11 +88,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/><br>
       <b>Node.js</b>
     </td>
-   
-    <td align="center" width="140">
-      <img src="https://cdn-icons-png.flaticon.com/512/3940/3940056.png" width="50" height="50" alt="AI/ML"/><br>
-      <b>AI & ML</b>
-    </td>
+  
   </tr>
 </table>
 
